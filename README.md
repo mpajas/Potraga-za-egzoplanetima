@@ -1,5 +1,7 @@
 # Potraga za egzoplanetima
 
+Detaljnije možete pročitati moj [diplomski rad](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A9736) u repozitoriju Prirodoslovno-matematičkog fakulteta u Zagrebu.
+
 ## Sažetak
 Egzoplaneti su planeti koji se nalaze izvan Sunčevog sustava. Oni su fascinantni astronomima i amaterima koji žele pronaći planete s izvanzemaljskim oblicima života. 
 Snimanjem zvijezda pomoću satelitskih teleskopa, kao što su Kepler i TESS, pronašlo se puno egzoplaneta. 
