@@ -47,7 +47,7 @@ Na slikama su prikazane matrice zbunjenosti, redom, logističke regresije i stab
 ![logreg_confusion_matrix](https://user-images.githubusercontent.com/23265032/132751779-283e1c50-7256-4faa-a116-6f394d7520de.png)
 ![tree_confusion_matrix](https://user-images.githubusercontent.com/23265032/132751781-8ae5c3d8-412a-4aba-86a7-200c2a200def.png)
 
-Zanimljiv je i rezultat ansambla oba algoritma koji ima nešto manju preciznost.
+Zanimljiv je i rezultat ansambla oba algoritma koji ima nešto manju preciznost, ali jednako dobar recall kao logistička regresija.
 
 ![ansambl_confusion_matrix](https://user-images.githubusercontent.com/23265032/132752274-0a09c952-cf4e-4e12-ad52-f3ed35e823a9.png)
 
